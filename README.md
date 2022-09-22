@@ -1,7 +1,7 @@
 # Sugarcane macro
 sugarcane macro for hypixel skyblock (1.8.9 forge mod)
 
-currect version 1.0
+Currect Version 1.0
 
 Download Method
 
